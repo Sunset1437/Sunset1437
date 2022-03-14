@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Sunset1437
-- 👀 I’m interested in procrastination
-- 🌱 I’m currently learning how to not suck a dick
-- 💞️ I’m not looking for collaborations
-- 📫 How to reach me ... impossible
+deadinside✓
+emo✓
+drain✓
+epileptic✓
+paranoid✓
+toxic✓
+bipolar✓
+depressed✓
+tilted✓
+antisocial✓
+sad✓
+broken✓
 
 <!---
 Sunset1437/Sunset1437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
