@@ -3,7 +3,7 @@
 </p>
 
 <details>
-<summary>Favorite Song</summary>
+<summary>Favorite Lyrics</summary>
 
 ***I don't get no calls***  
 ***While we are in our phones***    
