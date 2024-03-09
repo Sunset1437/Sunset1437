@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://magistratura-rsu.ru/uploads/mgudt/images/logo.png" />
+  <img src="https://kosygin-rgu.ru/1Redirect/images/logo-dark.png" />
 </p>
 
 <details>
