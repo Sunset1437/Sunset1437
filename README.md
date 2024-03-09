@@ -24,6 +24,12 @@
   </a>
   
 </details>
+<details>
+  <summary align="center">Pressing issues</summary>
+  <p align="center">
+  <img src="https://i.ytimg.com/vi/kKJ59u5nTxw/sddefault.jpg" height="408" style="background-position: -50dp; -50dp;"/>
+</p>
+</details>
 <!---
 Sunset1437/Sunset1437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
