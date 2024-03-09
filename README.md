@@ -3,7 +3,7 @@
       <img src="https://rguk.ru/local/templates/test/images/logo-new2.svg" height="100" width="400"/>
   </a>
   <a href="https://vk.com/iit_rsu">
-      <img src="https://rguk.ru/local/templates/test/images/Green.svg" height="100" width="155"/>
+      <img src="https://rguk.ru/local/templates/test/images/Green.svg" height="100" width="140"/>
   </a>
 </p>
 <p align="center">
