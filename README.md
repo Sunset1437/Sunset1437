@@ -12,7 +12,7 @@
   </a>
 </p>
 <details align="center">
-<summary align="center">Favorite artists</summary>
+<summary align="center"><i>Favorite artists</i></summary>
 <a href="https://genius.com/artists/Ivoxygen">
  <i>IVOXYGEN</i><br>  
 </a>
@@ -25,7 +25,7 @@
   
 </details>
 <details>
-  <summary align="center">Pressing issues</summary>
+  <summary align="center"><i>Pressing issues</i></summary>
   <p align="center">
   <img src="https://i.ytimg.com/vi/kKJ59u5nTxw/sddefault.jpg" height="408" style="background-position: -50dp; -50dp;"/>
 </p>
