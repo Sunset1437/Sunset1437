@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.codewars.com/users/AmICursed%3F">
+  <a href="https://www.codewars.com/users/Sunset1437">
       <img src="https://www.codewars.com/users/Sunset1437/badges/large" width="500"/>
   </a>
 </p>
