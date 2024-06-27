@@ -19,8 +19,8 @@
 <a href="https://genius.com/artists/Convolk">
   <i>Convolk</i><br>
 </a>
-  <a href="https://genius.com/artists/Gothurted">
-    <i>gothurted</i><br>
+  <a href="https://www.youtube.com/@billboards21">
+    <i>билборды</i><br>
   </a>
   
 </details>
