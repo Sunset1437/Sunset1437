@@ -13,11 +13,18 @@
       <img src="https://www.codewars.com/users/Sunset1437/badges/large" width="500"/>
   </a>
 </p>
-<p align="center"> 
-   <a href="https://russianspacesystems.ru/">
-	<img src="https://tadviser.com/images/e/e1/Российские_космические_системы_LOGO.png" width="270" height="200"/>
-   </a>
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <p> 
+      <a href="https://russianspacesystems.ru/">
+	  <img src="https://tadviser.com/images/e/e1/Российские_космические_системы_LOGO.png" width="270" height="200"/>
+      </a>
+   </p>
+   <p> 
+      <a href="https://www.roscosmos.ru">
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Roscosmos_logo_ru.svg" width="270" height="200"/>
+      </a>
+   </p>
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,c,docker,git,gitlab,css,htmx,postgres,powershell,visualstudio,vscode" height="40" alt="csharp logo"  />
   <img width="12" />
