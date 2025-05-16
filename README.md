@@ -1,3 +1,5 @@
+<h2 align="center">🌌 Sunset1437 aka casual 🅱️edolaga 🌌</h2>
+
 <p align="center">
   <a href="https://rguk.ru">
       <img src="https://rguk.ru/local/templates/test/images/logo-new2.svg" height="100" width="400"/>
@@ -11,6 +13,15 @@
       <img src="https://www.codewars.com/users/Sunset1437/badges/large" width="500"/>
   </a>
 </p>
+<p align="center"> 
+   <a href="https://russianspacesystems.ru/">
+	<img src="https://tadviser.com/images/e/e1/Российские_космические_системы_LOGO.png" width="270" height="200"/>
+   </a>
+</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,docker,git,gitlab,css,htmx,postgres,powershell,visualstudio,vscode" height="40" alt="csharp logo"  />
+  <img width="12" />
+</div>
 <details align="center">
 <summary align="center"><i>Favorite artists</i></summary>
 <a href="https://genius.com/artists/Ivoxygen">
