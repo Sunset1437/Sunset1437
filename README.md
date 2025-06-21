@@ -27,16 +27,18 @@
 </div>
 <details align="center">
 <summary align="center"><i>Favorite artists</i></summary>
+  <a href="https://genius.com/artists/Velial-squad">
+    <i>Velial Squad</i><br>
+  </a>
 <a href="https://genius.com/artists/Ivoxygen">
  <i>IVOXYGEN</i><br>  
 </a>
+  <a href="https://genius.com/artists/Bilbordy">
+    <i>билборды</i><br>
+  </a>
 <a href="https://genius.com/artists/Convolk">
   <i>Convolk</i><br>
 </a>
-  <a href="https://www.youtube.com/@billboards21">
-    <i>билборды</i><br>
-  </a>
-  
 </details>
 <details>
   <summary align="center"><i>Pressing issues</i></summary>
